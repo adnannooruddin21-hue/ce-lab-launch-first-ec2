@@ -5,6 +5,9 @@
 **Activity Type:** Individual  
 **Estimated Time:** 45-60 minutes
 
+Your name : Adnan Nooruddin
+Date : 14. 07. 2026
+
 ## Learning Objectives
 
 - [ ] Launch an EC2 instance using the AWS Console
